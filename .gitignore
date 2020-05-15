@@ -13,7 +13,7 @@ iOS-asset-creator
 # dist
 
 # Ignore all text files
-*.txt
+scratch,txt
 *.psd
 
 # Ignore files related to API keys
